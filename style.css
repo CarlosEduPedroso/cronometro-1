@@ -1,0 +1,21 @@
+h1{
+    font-size: 50px;
+    color:rgb(38, 252, 102);
+
+}
+.relogio{
+    font-size: 50px;
+    color: aqua;
+
+}
+body{
+    background-image: url(img.jpg);
+    
+}
+button{
+    font-size: 25px;
+    color: rgb(2, 54, 54);
+    border: 4px solid rgb(50, 194, 230);
+    
+}
+
